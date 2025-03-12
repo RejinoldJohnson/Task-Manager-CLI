@@ -9,3 +9,5 @@ A simple command-line interface (CLI) task manager written in Python.
 - Delete tasks
 - Change task status
 - List tasks with optional filtering
+
+https://roadmap.sh/projects/task-tracker
